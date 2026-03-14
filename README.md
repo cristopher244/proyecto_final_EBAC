@@ -14,6 +14,7 @@ Se realiza un análisis exploratorio de datos utilizando Python y librerías de 
 ## Contenido del proyecto
 
 * Exploración de datos
+* 
 * Limpieza de datos
 * Visualización
 * Conclusiones del análisis
@@ -25,6 +26,8 @@ Se realiza un análisis exploratorio de datos utilizando Python y librerías de 
 * Pandas
 * Matplotlib
 * Seaborn
+## dataset con el que se trabajo
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Autor
 
